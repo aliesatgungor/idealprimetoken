@@ -78,7 +78,6 @@ contract ERC20Token is StandardToken {
 // BU BÖLÜMÜ TOKENINA GÖRE DEĞİŞTİR
 //
 
-//make sure this function name matches the contract name above. So if you're token is called TutorialToken, make sure the //contract name above is also TutorialToken instead of ERC20Token
 
     function ERC20Token(
         ) {
